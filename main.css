@@ -1,0 +1,8 @@
+.form-control {
+    display: inline;
+    width: 75%;
+}
+
+#categoria {
+    font-weight: 300;
+}
